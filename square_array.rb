@@ -14,7 +14,7 @@ def
   
                   #square =
   
-  array.each do |number|
+  numbers_list.each do |number|
     
     squared_numbers << (number * number)
   
