@@ -14,8 +14,9 @@ def
   
                   #square =
   
-  array.each{ squared_numbers << (|number| * |number|)}
+  array.each do squared_numbers << (|number| * |number|)}
   
+             end
   
   squared_numbers
   
