@@ -10,7 +10,7 @@ def
   
                   # your code here
   
-  squared_numbers = New.Array
+  squared_numbers = New.array
   
                   #square =
   
