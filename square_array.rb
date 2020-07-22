@@ -12,6 +12,11 @@ def
   
   squared_numbers = New.Array
   
+                  #square =
   
+  array.each{ squared_numbers << puts (|number| * |number|)}
+  
+  
+  squared_numbers
   
 end
