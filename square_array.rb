@@ -14,10 +14,16 @@ def
   
                   #square =
   
-  array.each |number| do squared_numbers << (|number| * |number|)}
+  array.each do |number|
+    
+    squared_numbers << (number * number)
   
              end
+  
   
   squared_numbers
   
 end
+
+
+square_array(numbers)
